@@ -6,11 +6,11 @@ Welcome to the support website for Meshare App
 
 1. Open the Meshare app on your phone.
 2. Tap on "send".
-3. Move your phone in the area of the phone that want to receive your information.
+3. Move your phone close to the  phone that want to receive your data.
 
 ### If you want to receive contact data from another person
 
 1. Open the Meshare app on your phone.
 2. Tap on "receive".
-3. Move your phone in the area of the phone that sends you the information.
+3. Move your phone close to the phone that sends you the contact data.
 4. Tap on "save to contacts" to save the received data to you adress book.
