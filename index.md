@@ -17,4 +17,4 @@ Welcome to the support website for Meshare App
 
 
 # Contact
-E-Mail: victor.lobe.dev@gmail.com
+E-Mail: <victor.lobe.dev@gmail.com>
