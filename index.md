@@ -14,3 +14,7 @@ Welcome to the support website for Meshare App
 2. Tap on "receive".
 3. Move your phone close to the phone that sends you the contact data.
 4. Tap on "save to contacts" to save the received data to you adress book.
+
+
+# Contact
+E-Mail: victor.lobe.dev@gmail.com
