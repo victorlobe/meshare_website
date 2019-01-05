@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: "Meshare"
 description: "Easy contact sharing"
+author_email: victor.lobe.dev@gmail.com
 github:
   is_project_page: false
